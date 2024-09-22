@@ -11,11 +11,6 @@ The **Wooden Frame Calculator** allows users to calculate the price of wooden fr
 
 ## Installation Guide
 
-### Setup Instructions:
-1. Clone the repository:
-   ```bash
-   
-
 ## Setup Instructions
 1. Clone the repository:
 	```
