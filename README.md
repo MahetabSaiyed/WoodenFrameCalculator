@@ -20,4 +20,4 @@ The **Wooden Frame Calculator** allows users to calculate the price of wooden fr
 4. Configure the database connection:
 	- Update the database credentials in the `defined.php` and `config.php` file.
 5. Run the project locally by navigating to the project directory in your browser:
-	``` http://localhost/RobustTeacherPortal ```
+	``` http://localhost/WoodenFrameCalculator ```
