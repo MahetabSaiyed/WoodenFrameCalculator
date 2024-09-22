@@ -9,8 +9,6 @@ The **Wooden Frame Calculator** allows users to calculate the price of wooden fr
 - Add calculated frames to an order list.
 - View total order cost and delete or update individual items.
 
-## Installation Guide
-
 ## Setup Instructions
 1. Clone the repository:
 	```
